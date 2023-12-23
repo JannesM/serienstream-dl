@@ -1,7 +1,7 @@
 from pathlib import Path
 from scraper import Scraper
 
-BASE_URL = "https://aniworld.to/anime/stream/shangri-la-frontier"
+BASE_URL = "https://s.to/serie/stream/<YOUR_SERIE>"
 OUT_PATH = Path("./out")
 
 if __name__ == "__main__":
